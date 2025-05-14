@@ -1,3 +1,6 @@
 [submodule "PF2"]
 	path = PF2
 	url = https://github.com/acervodenethys/PF2.git
+[submodule "PF2-Back"]
+	path = PF2-Back
+	url = https://github.com/acervodenethys/PF2-Back.git
